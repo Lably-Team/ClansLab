@@ -1,0 +1,2 @@
+# ClansLab
+A clan plugin

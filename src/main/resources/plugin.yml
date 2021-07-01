@@ -1,0 +1,4 @@
+name: ClansLab
+version: 1.0
+main: org.bryangaming.clanslab.ClansLab
+api-version: 1.16

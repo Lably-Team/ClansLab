@@ -1,0 +1,22 @@
+
+#
+# Prefix: %p
+# Error: %e
+#
+
+config:
+  prefix: "&aClan &8|"
+  error: "&cError &8|"
+
+
+clan:
+  default-roles:
+    - Member
+    - Co-Leader
+    - Leader
+
+  chat-format:
+    clan: "&7[Clan] &8| &a%player% &8: &f%message%"
+    ally: "&a[Ally] &8| &a%player% &8: &f%message%"
+    enemy: "&c[Enemy] &8| &a%player% &8: &f%message%"
+
